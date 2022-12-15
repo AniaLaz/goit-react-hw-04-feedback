@@ -1,0 +1,14 @@
+.statisticsItem{
+     color: black;
+     list-style: none;
+}
+
+.spanStatisticsItem{
+    padding-left: 15px;
+    color: brown;
+}
+
+.positsveFeetback{
+    padding-left: 15px;
+    color: green;
+}

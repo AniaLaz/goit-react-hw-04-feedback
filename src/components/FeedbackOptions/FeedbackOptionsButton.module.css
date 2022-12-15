@@ -1,0 +1,26 @@
+.divButton {
+  display: flex;
+  gap: 10px;
+}
+
+.button {
+  color: brown;
+  min-width: 70px;
+}
+
+.button:hover {
+  background-color: bisque;
+  border-color: bisque;
+  border-radius: 7%;
+}
+
+.buttonGood:hover{
+  background-color: green;
+  color: aliceblue;
+  border-color: green;
+}
+.buttonBad:hover{
+    background-color: red;
+  color: aliceblue;
+  border-color: red;
+}
